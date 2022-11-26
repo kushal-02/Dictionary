@@ -2,4 +2,4 @@
 ```
 ** this is a paragraph **
 ```
-** this is bold **
+**this is bold**
