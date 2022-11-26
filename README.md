@@ -1,5 +1,3 @@
 # Dictionary
-```
-** this is a paragraph **
-```
-**this is bold**
+
+> text tha is quote
