@@ -1,3 +1,3 @@
 # Dictionary
 
-<p> this is a paragraph </p>
+<p><strong> this is a paragraph  </strong></p>
